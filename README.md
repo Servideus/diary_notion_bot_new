@@ -1,3 +1,5 @@
+[Инструкция на русском языке здесь](README.ru.md).
+
 # Telegram diary questionnaire for Notion
 
 A single-user Telegram bot that creates a Notion page and asks questions based on the database's editable properties. Answers are saved to Notion as the questionnaire progresses.
