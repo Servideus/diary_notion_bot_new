@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]>=22.5,<23
+python-dotenv>=1.0,<2
+aiohttp>=3.10,<4
+backoff==2.2.1
+pytz>=2024.1
